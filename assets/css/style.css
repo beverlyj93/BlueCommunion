@@ -1,0 +1,12 @@
+body {
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom right, blue, lightblue, lightblue);
+}
+
+header {
+    margin-top: 10px;
+}
+
+#header-logo {
+    margin-bottom: 10px;
+}
